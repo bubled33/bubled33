@@ -3,14 +3,10 @@
 
 Россия, Санкт-Петербург  
 
----
-
 ## Профиль  
 Python-разработчик с 2+ годами опыта.  
 Опыт в backend-разработке, микросервисной архитектуре и интеграции с внешними сервисами.  
 Работал с высоконагруженными системами, CI/CD и DevOps-инструментами.  
-
----
 
 ## Стек технологий  
 
@@ -37,8 +33,6 @@ Python-разработчик с 2+ годами опыта.
 ![React](https://img.shields.io/badge/React-gray?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-gray?style=for-the-badge&logo=typescript&logoColor=white)
 
----
-
 ## Опыт работы  
 
 ### 2025  
@@ -64,11 +58,7 @@ Python-разработчик с 2+ годами опыта.
 **KWORK (Фриланс) — Python Developer**  
 Telegram-боты, консалтинг, работа с клиентами напрямую.  
 
----
-
 ## Контакты  
 
 [zimnitskiymisha@gmail.com](mailto:zimnitskiymisha@gmail.com)  
 +7 (903) 464-13-89  
-
----
