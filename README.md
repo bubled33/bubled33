@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Mikhail%20Zimnitskiy&fontSize=40&animation=fadeIn&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Mikhail%20Zimnitskiy&fontSize=40&animation=fadeIn&fontAlignY=35&width=100%)
+
 
 ---
 
