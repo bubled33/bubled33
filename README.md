@@ -1,18 +1,18 @@
-# ![profile](https://img.shields.io/badge/-gray?style=for-the-badge&logo=codementor&logoColor=white) Зимницкий Михаил  
-### ![python](https://img.shields.io/badge/-gray?style=for-the-badge&logo=python&logoColor=white) Python Developer  
+# Зимницкий Михаил  
+### Python Developer  
 
-![location](https://img.shields.io/badge/-gray?style=flat&logo=googlemaps&logoColor=white) Россия, Санкт-Петербург  
+Россия, Санкт-Петербург  
 
 ---
 
-## ![about](https://img.shields.io/badge/-gray?style=for-the-badge&logo=aboutdotme&logoColor=white) Профиль  
+## Профиль  
 Python-разработчик с 2+ годами опыта.  
 Опыт в backend-разработке, микросервисной архитектуре и интеграции с внешними сервисами.  
 Работал с высоконагруженными системами, CI/CD и DevOps-инструментами.  
 
 ---
 
-## ![stack](https://img.shields.io/badge/-gray?style=for-the-badge&logo=stackshare&logoColor=white) Стек технологий  
+## Стек технологий  
 
 **Backend**  
 ![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&logoColor=white)
@@ -39,7 +39,7 @@ Python-разработчик с 2+ годами опыта.
 
 ---
 
-## ![work](https://img.shields.io/badge/-gray?style=for-the-badge&logo=briefcase&logoColor=white) Опыт работы  
+## Опыт работы  
 
 ### 2025  
 **ИП Петров Эдуард — Fullstack Developer**  
@@ -66,9 +66,9 @@ Telegram-боты, консалтинг, работа с клиентами на
 
 ---
 
-## ![contacts](https://img.shields.io/badge/-gray?style=for-the-badge&logo=telegram&logoColor=white) Контакты  
+## Контакты  
 
-📧 [zimnitskiymisha@gmail.com](mailto:zimnitskiymisha@gmail.com)  
-📞 +7 (903) 464-13-89  
+[zimnitskiymisha@gmail.com](mailto:zimnitskiymisha@gmail.com)  
++7 (903) 464-13-89  
 
 ---
