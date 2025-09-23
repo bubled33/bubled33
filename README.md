@@ -1,7 +1,5 @@
 # Зимницкий Михаил  
-### Python Developer  
-
-Россия, Санкт-Петербург  
+### Python Developer 
 
 ## Профиль  
 > Python-разработчик с 2+ годами опыта.  
@@ -61,5 +59,5 @@
 
 [zimnitskiymisha@gmail.com](mailto:zimnitskiymisha@gmail.com)  
 +7 (903) 464-13-89  
-💬 [Telegram @bubled](https://t.me/bubled)  
-🌍 Санкт-Петербург, Россия  
+[Telegram @bubled](https://t.me/bubled)  
+Санкт-Петербург, Россия  
