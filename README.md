@@ -7,14 +7,14 @@
 
 ---
 
-## 👨‍💻 Профиль  
+## Профиль  
 Python-разработчик с 2+ годами опыта.  
 Опыт в backend-разработке, микросервисной архитектуре и интеграции с внешними сервисами.  
 Работал с высоконагруженными системами, CI/CD и DevOps-инструментами.  
 
 ---
 
-## 🛠 Стек технологий  
+## Стек технологий  
 
 ![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-gray?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -32,7 +32,7 @@ Python-разработчик с 2+ годами опыта.
 
 ---
 
-## 💼 Опыт работы  
+## Опыт работы  
 
 **ИП Петров Эдуард — Fullstack Developer**  
 Разработка интернет-магазинов (FastAPI + React).  
@@ -47,7 +47,7 @@ Python-разработчик с 2+ годами опыта.
 - Поиск лидов через Telegram (Go-сервис, Redis, MongoDB).  
 
 **WoW Top — Python Developer**  
-PO для менеджмента продаж на WildBerries.  
+ПО для менеджмента продаж на WildBerries.  
 - Django DRF + PostgreSQL.  
 - Эффективность штата выросла на 50%.  
 
@@ -56,20 +56,11 @@ Telegram-боты, консалтинг, работа с клиентами на
 
 ---
 
-## ⚡ Навыки  
+## Навыки  
 
-- **Python** (async, playwright, selenium, pytest)  
-- **Backend**: FastAPI, Django, gRPC, GraphQL  
-- **Architecture**: Microservices, Hexagonal, Scalable Systems  
-- **Databases**: PostgreSQL, SQLAlchemy, MongoDB, Beanie, Redis, Kafka, Elasticsearch  
-- **DevOps**: Docker, Linux, CI/CD (GitHub Actions, Jenkins)  
-- **Frontend**: React (TypeScript)  
-
----
-
-## 📊 Статистика  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_border=true&theme=graywhite)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&hide_border=true&theme=graywhite)  
-
----
+- Python (async, playwright, selenium, pytest)  
+- Backend: FastAPI, Django, gRPC, GraphQL  
+- Architecture: Microservices, Hexagonal, Scalable Systems  
+- Databases: PostgreSQL, SQLAlchemy, MongoDB, Beanie, Redis, Kafka, Elasticsearch  
+- DevOps: Docker, Linux, CI/CD (GitHub Actions, Jenkins)  
+- Frontend: React (TypeScript)  
