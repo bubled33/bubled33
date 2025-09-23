@@ -1,9 +1,9 @@
 # Зимницкий Михаил  
 ### Python Developer  
 
-📍 Россия, Санкт-Петербург  
-📞 +7 (903) 464-13-89  
-✉️ zimnitskiymisha@gmail.com  
+Россия, Санкт-Петербург  
++7 (903) 464-13-89  
+zimnitskiymisha@gmail.com  
 
 ---
 
@@ -67,20 +67,9 @@ Python-разработчик с 2+ годами опыта.
 Telegram-боты, консалтинг, работа с клиентами напрямую.  
 
 ---
-
-## Навыки  
-
-`Python (async, playwright, selenium, pytest)`  
-`FastAPI` `Django` `gRPC` `GraphQL`  
-`PostgreSQL` `SQLAlchemy` `MongoDB` `Beanie` `Redis` `Kafka` `Elasticsearch`  
-`Docker` `Linux` `CI/CD (GitHub Actions, Jenkins)`  
-`React (TypeScript)`  
-
----
-
 ## Контакты  
 
-✉️ [zimnitskiymisha@gmail.com](mailto:zimnitskiymisha@gmail.com)  
-📞 +7 (903) 464-13-89  
+[zimnitskiymisha@gmail.com](mailto:zimnitskiymisha@gmail.com)  
++7 (903) 464-13-89  
 
 ---
