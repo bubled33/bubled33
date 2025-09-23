@@ -2,8 +2,6 @@
 ### Python Developer  
 
 Россия, Санкт-Петербург  
-+7 (903) 464-13-89  
-zimnitskiymisha@gmail.com  
 
 ---
 
