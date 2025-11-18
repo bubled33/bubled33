@@ -15,7 +15,6 @@ Backend‑разработчик с 3+ годами опыта коммерче�
 ![FastAPI](https://img.shields.io/badge/FastAPI-gray?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-gray?style=for-the-badge&logo=django&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-gray?style=for-the-badge&logo=go&logoColor=white)
-![Echo](https://img.shields.io/badge/Echo-gray?style=for-the-badge&logo=go&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-gray?style=for-the-badge&logo=grpc&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-gray?style=for-the-badge&logo=graphql&logoColor=white)
 
@@ -32,7 +31,6 @@ Backend‑разработчик с 3+ годами опыта коммерче�
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-gray?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-gray?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=linux&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-gray?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-gray?style=for-the-badge&logo=nginx&logoColor=white)
 
 **Monitoring & Observability**  
