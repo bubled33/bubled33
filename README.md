@@ -54,51 +54,6 @@ Backend‑разработчик с 2+ годами опыта коммерче�
 ![React](https://img.shields.io/badge/React-gray?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-gray?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Ключевые навыки
-
-### Backend Development
-- **Go**: Gin, Echo, goroutines, channels, context, конкурентное программирование
-- **Python**: FastAPI, Django, async/await, SQLAlchemy, Pydantic
-- **Architecture**: Hexagonal/Clean Architecture, Domain-Driven Design (DDD), Event-Driven Architecture, SAGA Pattern
-- **API Design**: RESTful API, gRPC, GraphQL, WebSocket, Protocol Buffers
-- **Authentication**: OAuth2, JWT, Magic Links
-
-### Databases
-- **PostgreSQL** (Advanced): проектирование схем, индексы (B‑tree, GiST, GIN), EXPLAIN ANALYZE, оптимизация запросов, миграции
-- **NoSQL**: MongoDB, Redis (caching, pub/sub)
-- **Search**: Elasticsearch (полнотекстовый поиск, фильтрация)
-- **ORM/Query Builders**: GORM, SQLAlchemy
-
-### Message Brokers & Async Processing
-- **Apache Kafka**: продюсеры, консьюмеры, топики, партиции, Event-Driven архитектура
-- **RabbitMQ**: очереди задач, асинхронная обработка
-- **Паттерны**: Saga, Outbox, Event Sourcing
-
-### DevOps & Infrastructure
-- **Containerization**: Docker, Docker Compose, multi-stage builds
-- **Orchestration**: Kubernetes (deployments, services, ingress) — Intermediate
-- **Cloud**: AWS (EC2, S3, RDS, Lambda), MinIO
-- **CI/CD**: GitHub Actions, Jenkins, автоматизация деплоя
-- **Web Servers**: Nginx (reverse proxy, load balancing)
-
-### Monitoring & Observability
-- **Metrics**: Prometheus, Grafana (дашборды, алерты)
-- **Distributed Tracing**: OpenTelemetry, Jaeger (trace_id, spans, context propagation)
-- **Logging**: Structured logging, ELK stack
-- **Performance**: latency tracking, connection pooling, профилирование
-
-### Testing & Quality Assurance
-- **Unit Testing**: Go test, Testify, pytest
-- **Integration Testing**: Testcontainers, integration tests с реальными БД
-- **E2E Testing**: end-to-end тестирование API
-- **Code Quality**: code review, OWASP security practices
-
-### Development Practices
-- **Version Control**: Git (branching strategies, pull requests)
-- **Documentation**: Swagger/OpenAPI, technical documentation
-- **Methodologies**: Agile/Scrum, Kanban
-- **Security**: OWASP, SSL/TLS, secure coding practices
-
 ## Контакты  
 
 **Email**: [zimnitskiymisha@gmail.com](mailto:zimnitskiymisha@gmail.com)  
